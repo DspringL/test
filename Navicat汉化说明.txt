@@ -1,0 +1,57 @@
+Navicat是一款非常强大的sql分析管理工具。以前一直在windows上面使用。
+
+由于工作的需要，我也是折腾出了这不易的mac破解版。下了好多网上的版本，亲测这个可用。
+
+俗话说：工欲善其事，必先利其器。
+
+安装和破解很简单，步骤如下：
+
+1，点击下载Navicat压缩包,解压下来之后会看到这两个文件（提取密码：uuet）
+
+运行Navicat Premium 11.0.16，
+
+打开会看到两个
+
+
+
+安装圈起来的navicat。
+
+2.安装好navicat后不用打开，直接双击打开core_keygen.
+
+oxs系统默认不支持直接运行32位的应用程序,需要将 keygen以32位模式打开，右键core keygen.app选择显示简介，把以32位模式打开打勾就可以运行了。
+
+
+
+然后打开core keygen。点击Patch，弹出选择程序的窗口，选择刚才安装的Navicat Premium。
+
+
+
+然后点击Generate获取激活码。
+
+再点击Activata，又弹出选择程序的窗口，选择Navicat Premium。
+
+ok，这样再打开Navicat Premium就已经激活了。
+
+如果还不能激活请在终端运行以下命令：
+rm -Rf ~/Library/Application\ Support/PremiumSoft\ CyberTech/Navicat*
+rm -Rf ~/Library/Caches/com.prect.NavicatPremium
+rm -Rf ~/Library/Preferences/com.prect.NavicatPremium.plist
+sudo rm -Rf /Applications/Navicat\ Premium.app/
+
+执行完成后重启在安装Navicat Premium，并再次执行破解过程！
+
+ 
+
+3，汉化：
+
+1.打开finder，选择应用程序
+
+2.找到刚刚安装的Navicat Premium
+
+3.右键显示包内容
+
+4.依次打开Contents 文件夹下的Resources。
+
+5.将中文包中的zh-Hans.lproj 以及 zip ，放到Resources文件夹下（替换zip）。
+
+然后关闭Navicat Premium 再打开，就是中文版的了。
